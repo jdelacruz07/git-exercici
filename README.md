@@ -1,0 +1,2 @@
+# git-exercici
+Primer programa 
